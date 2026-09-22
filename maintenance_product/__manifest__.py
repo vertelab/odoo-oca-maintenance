@@ -5,7 +5,7 @@
     "name": "Maintenance Product",
     "version": "18.0.1.0.1",
     "category": "Maintenance",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_product",
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "depends": ["maintenance", "product"],

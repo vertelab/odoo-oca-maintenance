@@ -8,7 +8,7 @@
     "license": "AGPL-3",
     "category": "Hidden",
     "author": "Tecnativa,Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_timesheet_time_control",
     "depends": ["maintenance_timesheet", "project_timesheet_time_control"],
     "data": ["views/maintenance_request_view.xml"],
     "auto_install": True,

@@ -7,7 +7,7 @@
     "author": "Odoo Community Association (OCA), Solvos",
     "license": "AGPL-3",
     "category": "Maintenance",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_project",
     "depends": ["base_maintenance", "project"],
     "data": [
         "views/maintenance_request_views.xml",

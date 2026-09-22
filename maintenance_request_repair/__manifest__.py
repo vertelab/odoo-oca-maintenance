@@ -9,7 +9,7 @@
     "license": "AGPL-3",
     "category": "Maintenance",
     "author": "Escodoo,Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_request_repair",
     "depends": [
         "maintenance",
         "repair",

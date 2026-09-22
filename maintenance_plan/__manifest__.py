@@ -7,7 +7,7 @@
     "author": "Camptocamp SA, ForgeFlow, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "category": "Maintenance",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_plan",
     "images": [],
     "depends": ["base_maintenance"],
     "data": [

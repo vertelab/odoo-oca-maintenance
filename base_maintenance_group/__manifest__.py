@@ -5,7 +5,7 @@
     "name": "Maintenance Groups",
     "summary": "Provides base access groups for the Maintenance App",
     "author": "Onestein, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/base_maintenance_group",
     "category": "Maintenance",
     "version": "18.0.1.0.0",
     "license": "AGPL-3",

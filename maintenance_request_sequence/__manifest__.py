@@ -8,7 +8,7 @@
     "version": "18.0.1.0.0",
     "license": "AGPL-3",
     "author": "Creu Blanca,Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_request_sequence",
     "depends": ["maintenance"],
     "data": [
         "data/maintenance_request_data.xml",

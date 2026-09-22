@@ -6,7 +6,7 @@
     "name": "Maintenance Security",
     "version": "18.0.2.0.0",
     "category": "Tools",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_security",
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "depends": ["maintenance"],

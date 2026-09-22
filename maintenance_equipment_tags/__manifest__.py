@@ -9,7 +9,7 @@
     "license": "AGPL-3",
     "author": "Creu Blanca,Odoo Community Association (OCA)",
     "maintainers": ["etobella"],
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_equipment_tags",
     "depends": ["maintenance"],
     "demo": ["demo/maintenance_equipment_tags_demo.xml"],
     "data": [

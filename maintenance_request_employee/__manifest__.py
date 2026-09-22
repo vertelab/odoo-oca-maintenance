@@ -4,7 +4,7 @@
     "name": "Maintenance Request Employee",
     "version": "18.0.1.0.0",
     "category": "Maintenance",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_request_employee",
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "depends": ["hr_maintenance"],

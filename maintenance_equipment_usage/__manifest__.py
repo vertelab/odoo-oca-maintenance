@@ -5,7 +5,7 @@
     "name": "Maintenance Equipment Usage",
     "version": "18.0.1.0.0",
     "category": "Maintenance",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_equipment_usage",
     "author": "César Fernández, Tecnativa, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "depends": ["maintenance"],

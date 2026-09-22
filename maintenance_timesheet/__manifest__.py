@@ -7,7 +7,7 @@
     "license": "AGPL-3",
     "version": "18.0.1.1.0",
     "category": "Human Resources",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_timesheet",
     "depends": ["maintenance_project", "hr_timesheet"],
     "data": [
         "security/maintenance_timesheet_security.xml",

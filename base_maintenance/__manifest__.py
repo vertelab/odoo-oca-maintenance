@@ -6,7 +6,7 @@
     "version": "18.0.1.0.0",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
     "development_status": "Beta",
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/base_maintenance",
     "category": "Maintenance",
     "license": "LGPL-3",
     "depends": ["maintenance"],

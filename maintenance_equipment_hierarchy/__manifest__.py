@@ -6,7 +6,7 @@
     "summary": "Manage equipment hierarchy",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
     "maintainers": ["dalonsod"],
-    "website": "https://github.com/OCA/maintenance",
+    "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_equipment_hierarchy",
     "category": "Equipments, Assets, Internal Hardware, Allocation Tracking",
     "version": "18.0.1.0.0",
     "license": "LGPL-3",
