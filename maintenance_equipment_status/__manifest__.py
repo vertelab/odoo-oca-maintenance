@@ -2,6 +2,18 @@
 # License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl).
 {
     "name": "Maintenance Equipment Status",
+    'summary': "Adds a status field to equipment.",
+    'description': '''
+Maintenance Equipment Status
+============================
+
+    Adds a status field to equipment.
+
+    Features:
+
+        - UI Integration: Extends 2 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on maintenance.equipment, maintenance.equipment.category, maintenance.equipment.status.
+    ''',
     "version": "18.0.1.0.0",
     "category": "",
     "author": "ForgeFlow, Odoo Community Association (OCA)",

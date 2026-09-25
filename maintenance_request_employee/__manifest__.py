@@ -2,6 +2,18 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
     "name": "Maintenance Request Employee",
+    'summary': "Links employees to maintenance requests.",
+    'description': '''
+Maintenance Request Employee
+============================
+
+    Links employees to maintenance requests.
+
+    Features:
+
+        - UI Integration: Extends 1 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on hr.employee, maintenance.request.
+    ''',
     "version": "18.0.1.0.0",
     "category": "Maintenance",
     "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_request_employee",

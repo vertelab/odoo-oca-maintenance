@@ -3,6 +3,18 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
     "name": "Maintenance Equipment Usage",
+    'summary': "Tracks equipment usage.",
+    'description': '''
+Maintenance Equipment Usage
+===========================
+
+    Tracks equipment usage.
+
+    Features:
+
+        - UI Integration: Extends 2 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on equipment_id, mail.thread, maintenance.equipment, maintenance.equipment.usage.
+    ''',
     "version": "18.0.1.0.0",
     "category": "Maintenance",
     "website": "https://vertel.se/apps/odoo-oca-maintenance/maintenance_equipment_usage",
